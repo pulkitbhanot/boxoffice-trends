@@ -1,0 +1,67 @@
+[INFO] 2015-03-10 22:34:45,447 [main]  com.boxoffice.WikipediaViewsDetailDownloader start - Need to download page views for 3071 movies
+[INFO] 2015-03-10 22:34:45,449 [main]  com.boxoffice.WikipediaViewsDetailDownloader start - Initializing countdown with  10
+[WARN] 2015-03-10 22:35:09,954 [769c9-8]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Another+9+1%2F2+Weeks status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:35:10,535 [769c9-8]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:35:14,948 [769c9-8]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/The+Attacks+of+26%2F11 status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:35:15,451 [769c9-8]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:35:27,649 [769c9-7]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Bitter%2FSweet status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:35:28,231 [769c9-7]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:36:00,083 [769c9-1]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Cut%2FPrint status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:36:00,630 [769c9-1]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:36:21,814 [769c9-4]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/F%2FX status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:36:22,415 [769c9-4]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:36:23,376 [769c9-5]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/F%2FX+2%3A+The+Deadly+Art+of+Illusion status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:36:23,988 [769c9-5]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:36:25,941 [769c9-5]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Fate%2FStay+Night%3A+Unlimited+Blade+Works status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:36:26,406 [769c9-5]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:36:32,392 [769c9-8]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Frost%2FNixon%3A+The+Original+Watergate+Interviews status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:36:32,878 [769c9-8]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[WARN] 2015-03-10 22:37:00,676 [769c9-6]  com.boxoffice.MovieViewRunnable run - NON-OK status for request http://stats.grok.se/json/en/201402/Ir%2FReconcilable status code 404 will attempt by removing character '/' 
+[INFO] 2015-03-10 22:37:01,244 [769c9-6]  com.boxoffice.MovieViewRunnable run - Successfully processed now
+[INFO] 2015-03-10 22:37:40,114 [769c9-6]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 174596
+[INFO] 2015-03-10 22:37:40,114 [769c9-6]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:40,794 [769c9-9]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 175276
+[INFO] 2015-03-10 22:37:40,794 [769c9-9]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:41,076 [769c9-4]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 175558
+[INFO] 2015-03-10 22:37:41,076 [769c9-4]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:42,077 [769c9-2]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 176560
+[INFO] 2015-03-10 22:37:42,078 [769c9-2]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:42,317 [769c9-8]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 176799
+[INFO] 2015-03-10 22:37:42,317 [769c9-8]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:42,984 [769c9-10]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 177466
+[INFO] 2015-03-10 22:37:42,984 [769c9-10]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:43,072 [769c9-3]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 177555
+[INFO] 2015-03-10 22:37:43,073 [769c9-3]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:43,546 [769c9-5]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 178029
+[INFO] 2015-03-10 22:37:43,546 [769c9-5]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:43,820 [769c9-7]  com.boxoffice.MovieViewRunnable run - Time taken for executing 307 requests is 178303
+[INFO] 2015-03-10 22:37:43,820 [769c9-7]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:44,197 [769c9-1]  com.boxoffice.MovieViewRunnable run - Time taken for executing 308 requests is 178681
+[INFO] 2015-03-10 22:37:44,197 [769c9-1]  com.boxoffice.MovieViewRunnable run - Counting down
+[INFO] 2015-03-10 22:37:44,198 [main]  com.boxoffice.WikipediaViewsDetailDownloader start - Completed processing all requests
+[INFO] 2015-03-10 22:37:44,200 [769c9-9]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [307,307]
+[INFO] 2015-03-10 22:37:44,200 [769c9-8]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [307,307]
+[INFO] 2015-03-10 22:37:44,200 [769c9-2]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [307,307]
+[INFO] 2015-03-10 22:37:44,200 [769c9-4]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [307,307]
+[INFO] 2015-03-10 22:37:44,200 [769c9-6]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [308,307]
+[INFO] 2015-03-10 22:37:44,202 [769c9-4]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken2
+[INFO] 2015-03-10 22:37:44,202 [769c9-2]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken2
+[INFO] 2015-03-10 22:37:44,201 [769c9-8]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken1
+[INFO] 2015-03-10 22:37:44,201 [769c9-9]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken1
+[INFO] 2015-03-10 22:37:44,202 [769c9-6]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken2
+[INFO] 2015-03-10 22:37:44,203 [main]  com.boxoffice.WikipediaViewsDetailDownloader getMergedList - Done waiting on latch with count5
+[INFO] 2015-03-10 22:37:44,204 [769c9-10]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [615,614]
+[INFO] 2015-03-10 22:37:44,204 [769c9-5]  com.boxoffice.ListMergerRunnable run - Merger has only 1 list setting this as returnlist
+[INFO] 2015-03-10 22:37:44,204 [769c9-3]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [614,614]
+[INFO] 2015-03-10 22:37:44,204 [769c9-5]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken0
+[INFO] 2015-03-10 22:37:44,204 [769c9-10]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken0
+[INFO] 2015-03-10 22:37:44,205 [769c9-3]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken1
+[INFO] 2015-03-10 22:37:44,205 [main]  com.boxoffice.WikipediaViewsDetailDownloader getMergedList - Done waiting on latch with count3
+[INFO] 2015-03-10 22:37:44,205 [769c9-7]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [1229,1228]
+[INFO] 2015-03-10 22:37:44,205 [769c9-1]  com.boxoffice.ListMergerRunnable run - Merger has only 1 list setting this as returnlist
+[INFO] 2015-03-10 22:37:44,205 [769c9-1]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken0
+[INFO] 2015-03-10 22:37:44,206 [769c9-7]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken1
+[INFO] 2015-03-10 22:37:44,207 [main]  com.boxoffice.WikipediaViewsDetailDownloader getMergedList - Done waiting on latch with count2
+[INFO] 2015-03-10 22:37:44,207 [769c9-4]  com.boxoffice.ListMergerRunnable run - Starting merger with lists of size [2457,614]
+[INFO] 2015-03-10 22:37:44,208 [769c9-4]  com.boxoffice.ListMergerRunnable run - Counting down, tike taken1
+[INFO] 2015-03-10 22:37:44,208 [main]  com.boxoffice.WikipediaViewsDetailDownloader getMergedList - Done waiting on latch with count1

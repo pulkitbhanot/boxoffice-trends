@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_38
+Built-By: pulkit
+Created-By: IntelliJ IDEA
+Main-Class: com.boxoffice.LaunchPad
+
